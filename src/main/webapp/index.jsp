@@ -1,7 +1,7 @@
 <html>
   <body>
 
-    <h1>THIS IS MY NEW anitha  ccompany inform APP VERSION 2.0</h1>
+    <h1>THIS IS MY NEW APP VERSION 2.0</h1>
     <h2>this is yuvan's project</h2>
   
 
